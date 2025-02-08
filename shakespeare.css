@@ -39,3 +39,15 @@ tr:nth-child(even) {
     text-shadow: 2px 2px 5px blue;
     border-bottom: 2px solid blue;
 }
+
+nav {
+    background-color: rgb(49, 44, 44);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
